@@ -105,8 +105,8 @@ button:hover{
 
 li {
     margin: auto;
-    height: 30px;
     font-size: 0.8em;
-    line-height: 30px;
+    text-align: justify;
+
 
 }
